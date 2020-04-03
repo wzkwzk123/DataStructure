@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zwu/wzk/C++/DateStructStudy/include/Sqlist.h
+
+/home/zwu/wzk/C++/DateStructStudy/main.cpp
+iostream
+-
+include/Sqlist.h
+/home/zwu/wzk/C++/DateStructStudy/include/Sqlist.h
+

@@ -1,0 +1,7 @@
+/home/zwu/software/CLion-2019.3.2/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/zwu/wzk/C++/DateStructStudy
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_library):
+  No SOURCES given to target: include
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
